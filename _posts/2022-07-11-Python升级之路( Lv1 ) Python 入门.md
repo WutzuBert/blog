@@ -284,6 +284,7 @@ pip install virtualenvwrapper-win
 ```
 **注意:**
 Windows下, 想要在命令行运行pip 命令需要配置环境变量. 只需在 path 下添加安装后的 python\Scripts 目录即可, 例如 `C:\Program Files\python\Scripts`
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d210a3ea99754ed5b0f539cf2d956c8a.png)
 
 #### 相关操作指令
@@ -410,6 +411,7 @@ turtle.done()  # 程序结束，保持窗口存在
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f1e8341e85504e5b9b7be6c508651706.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5pe26Ze06Z2Z5q2i5LiN5piv566A5Y-y,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ---
+
 <font color=red>实操: 照猫画虎, 根据上面库的调用方式, 绘制一个奥运五环图</font>
 
 ![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.soutu123.cn%2Felement_origin_min_pic%2F16%2F09%2F15%2F2357dabd482fc64.jpg%21%2Ffw%2F700%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue&refer=http%3A%2F%2Fpic.soutu123.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659840874&t=90c0b64fafa7a483550ac4f29bb4b03e)
