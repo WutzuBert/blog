@@ -1,3 +1,9 @@
+---
+title: Python升级之路( Lv1 ) Python 入门
+tags: 时间静止不是简史
+excerpt: Python介绍, 环境搭建, 基本格式, 异常处理, 注释格式, 绘图等
+---
+
 #  Python系列文章目录
 第一章 Python 入门
 
