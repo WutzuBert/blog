@@ -10,10 +10,6 @@ excerpt: Python介绍, 环境搭建, 基本格式, 异常处理, 注释格式, �
 ---
 
 
-@[TOC](Python 入门)
-
----
-
 # 前言
 
 
@@ -412,7 +408,7 @@ turtle.done()  # 程序结束，保持窗口存在
 
 ---
 
-<font color=red>实操: 照猫画虎, 根据上面库的调用方式, 绘制一个奥运五环图</font>
+实操: 照猫画虎, 根据上面库的调用方式, 绘制一个奥运五环图
 
 ![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.soutu123.cn%2Felement_origin_min_pic%2F16%2F09%2F15%2F2357dabd482fc64.jpg%21%2Ffw%2F700%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue&refer=http%3A%2F%2Fpic.soutu123.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659840874&t=90c0b64fafa7a483550ac4f29bb4b03e)
 
